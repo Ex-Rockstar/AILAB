@@ -1,0 +1,13 @@
+exp : cannibal : find. 
+exp : 8-puzzle : test(Plan).
+exp : DFS      : solve(a, Solution).
+exp : BFS      : solve(a, Solution).
+exp : TSP      : shortest_path(Path).
+exp : library  : find_book_by_title(harry_potter_1,A,Y,G).
+               : find_borrower_by_id(12345,A,B).
+exp : study    : parent(jim,X) 
+exp : fact     : delicious(pickles).
+exp : temp     : ctof(100,F). 
+exp : n-queens : template(S),solution(S). 
+exp : waterjug : fill(4,0). 
+
